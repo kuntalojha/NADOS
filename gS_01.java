@@ -1,4 +1,4 @@
-public class gettingStarted_01 {
+public class gS_01 {
 	public static void main(String[] args) {
 		System.out.println("*");
 		System.out.println("**");
