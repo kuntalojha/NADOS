@@ -1,4 +1,4 @@
-public class gettingStarted_5_1{
+public class gettingStarted_5_1_Conditoon{
     public static void main(String[] args) {
         int n1 = 96;
         int n2 = 69;
